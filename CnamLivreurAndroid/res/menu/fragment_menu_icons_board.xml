@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    
+    <item android:id="@+id/menu_ajouter_board"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title=" "
+       android:layout_width="match_parent"
+    android:layout_height="match_parent"
+        android:showAsAction="ifRoom|withText" />
+    
+	
+	  	 	 
+     
+          <item android:id="@+id/bouton_retour" 
+	        android:icon="@android:drawable/ic_menu_revert" 
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:title=" "
+            android:showAsAction="ifRoom|withText" />
+	  	
+	 
+    
+   </menu>

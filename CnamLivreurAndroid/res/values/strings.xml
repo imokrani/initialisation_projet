@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Salut voici un mimi projet android avec le cloud!</string>
+    <string name="app_name">Livreur Android-Cloud</string>
+    <string name="add_user">Ajouter un Livreur</string>
+    <string name="get_users">Récupérer la liste des Livreurs</string>
+    
+       <string name="ajouter_livreur">Créer un compte Livreur</string>
+    <string name="connexion_livreur">Connexion Livreur</string>
+    
+    <string name="connexion_deja_compte">Si vous avez déja un compte</string>
+    
+    <color name="solid_red">#fff00000</color>
+    
+    <string name="ajouter_livreur_nouveau">Ajouter Livreur</string>
+    <string name="get_tous_livreurs_nouveau">Recuperer tous les livreur</string>
+        <string name="login_title">Connexion Livreur</string>
+    <string name="name">Nom</string>
+    <string name="email">Email</string>
+    <string name="pwd">Mot de passe</string>
+    <string name="loginlabel">Login</string>
+<string name="btnRegister">Enregistrer</string>
+    
+</resources>
