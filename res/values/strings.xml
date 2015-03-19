@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    
+    
+      <string name="app_name">AppAvecAccesSecu</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="register_title">Enregistré</string>
+    <string name="login_title">Login</string>
+    <string name="name">Nom</string>
+    <string name="email">Email</string>
+    <string name="pwd">Mot de passe</string>
+<string name="btnRegister">Enregistrer</string>
+
+</resources>
