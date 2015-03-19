@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">CnamClientAndroid_</string>
+    <string name="login_title">Connexion Client</string>
+    <string name="pwd">Mot de passe</string>
+    
+    <string name="message_boite_dialog_demande">Voulez-vous confirmer la demande du livreur ?</string>
+
+</resources>
+	
