@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">CGIPoc</string>
+  <string name="creer_date">Prendre une photo</string>
+  <string name="home_poc_cgi">Accueil</string>
+  <string name="home_poc_cgi_boards">Boards</string>
+  
+  <string name="ajouter_bord">Ajouter un board</string>
+  
+  <string name="board_photos">Photos</string>
+  
+  <string name="titre_board">Board</string>
+  
+  <string name="menu_ajouter_board">Board</string>
+  
+  <string name="crime_title_hint">Titre de l\'image</string>
+  <string name="board_titre_hint">Titre du bord</string>
+  <string name="board_description_label">Description</string>
+  <string name="board_description_champ">Description du board</string>
+  
+  <string name="board_annuler_bouton">Annuler</string>
+  
+  <string name="board_enregistrer_bouton">Enregistrer</string>
+  
+  <string name="crime_title_label">Titre</string> 
+  
+  <string name="board_titre_label">Titre</string>
+  
+  <string name="crime_details_label">Details</string> 
+  <string name="data_description_label">Description</string>
+  <string name="data_description_champ">Description de l\' image</string>
+  <string name="data_envoyer_bouton">Envoyer</string>
+  <string name="crime_solved_label">Partager ultérieurment ?</string>
+  <string name="date_picker_title">Date de l\'image:</string>
+  <string name="crimes_title">Accueil2</string>
+  
+  <string name="supprimer_data">Supprimer</string>
+  <string name="edit_data">Editer</string>
+  <string name="quitter_cgi_pc">Quitter</string>
+  <string name="hide_subtitle">Cacher le sous titre</string> 
+  <string name="subtitle">Sometimes tolerance is not a virtue.</string>
+  <string name="modifier_bord">Modifier le board</string>
+  
+    <string name="partager">Partage</string>
+    <string name="menu_partager">Partage</string>
+    <string name="sousmenu_partager_images">Images</string>
+    <string name="sousmenu_partager_videos">Videos</string>
+    <string name="sousmenu_partager_sons">Sons</string>
+    <string name="sousmenu_partager_notes">Notes</string>
+    
+    <string name="menu_consultation">Consultation</string>   
+    <string name="sousmenu_consulter_images">Images</string>
+    <string name="sousmenu_consulter_videos">Videos</string>
+    <string name="sousmenu_consulter_sons">Sons</string>
+    <string name="sousmenu_consulter_notes">Notes</string>
+    
+    <string name="prendre_photo">Créer une image</string>
+    <!-- GROUP DE BOUTON RADIO -->
+    <string name="radio_photos">Photos</string>
+    <string name="radio_notes">Notes</string>
+     <string name="radio_sons">Sons</string>
+      <string name="radio_videos">Vidéos</string>
+      
+      
+      
+    
+
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+  android:layout_height="wrap_content"
+  android:background="@drawable/background_element_selectionnes">
+  
+    
+   <TextView android:id="@+id/board_description_list_item_titleTextView"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+     android:gravity="center"
+     android:layout_alignParentRight="true"
+     android:textStyle="italic"
+    android:paddingLeft="4dp"
+    android:paddingRight="4dp"
+    android:enabled="false"
+    android:focusable="false"
+    android:text="Titre board" /> 
+    
+      <TextView android:id="@+id/board_titre_list_item_titleTextView"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_toLeftOf="@id/board_description_list_item_titleTextView"
+    android:gravity="left"
+      android:textStyle="bold"
+    android:paddingLeft="4dp"
+    android:paddingRight="4dp"
+    android:layout_alignParentRight="false"
+  android:layout_alignParentLeft="true"
+    android:text="Titre board" />
+    
+    
+<!--  <TextView android:id="@+id/board_titre_list_item_titleTextView"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:layout_alignParentRight="true"
+
+    android:textStyle="bold"
+    android:paddingLeft="4dp"
+    android:paddingRight="4dp"
+    android:text="Titre board" />
+
+  
+    <TextView android:id="@+id/board_description_list_item_titleTextView"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_toLeftOf="@id/board_titre_list_item_titleTextView"
+    android:textStyle="bold"
+    android:enabled="false"
+    android:focusable="false"
+    android:paddingLeft="4dp"
+    android:paddingRight="4dp"
+    android:text="Description board" /> -->
+    
+    
+   
+
+</RelativeLayout>
+
+
